@@ -1,0 +1,35 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Flutter (Chrome)",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=SUPABASE_URL=https://hzteyhrncgtrloadrzrv.supabase.co",
+        "--dart-define=SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh6dGV5aHJuY2d0cmxvYWRyenJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA1MzU2MzgsImV4cCI6MjA3NjExMTYzOH0.FRLQTKGMkj4biou8uKe2ekcatM8yoLM8pFUylFmS1DM"
+      ]
+    },
+    {
+      "name": "Flutter (Windows)",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=SUPABASE_URL=https://hzteyhrncgtrloadrzrv.supabase.co",
+        "--dart-define=SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh6dGV5aHJuY2d0cmxvYWRyenJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA1MzU2MzgsImV4cCI6MjA3NjExMTYzOH0.FRLQTKGMkj4biou8uKe2ekcatM8yoLM8pFUylFmS1DM"
+      ]
+    },
+    {
+      "name": "Flutter (Android)",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "args": [
+        "--dart-define=SUPABASE_URL=https://hzteyhrncgtrloadrzrv.supabase.co",
+        "--dart-define=SUPABASE_ANON_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh6dGV5aHJuY2d0cmxvYWRyenJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA1MzU2MzgsImV4cCI6MjA3NjExMTYzOH0.FRLQTKGMkj4biou8uKe2ekcatM8yoLM8pFUylFmS1DM"
+      ]
+    }
+  ]
+}

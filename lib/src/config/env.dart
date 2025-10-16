@@ -1,0 +1,9 @@
+
+class Env {
+  
+  static const fallbackSupabaseUrl =
+      'https://hzteyhrncgtrloadrzrv.supabase.co';
+
+  static const fallbackSupabaseAnonKey =
+      'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imh6dGV5aHJuY2d0cmxvYWRyenJ2Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjA1MzU2MzgsImV4cCI6MjA3NjExMTYzOH0.FRLQTKGMkj4biou8uKe2ekcatM8yoLM8pFUylFmS1DM';
+}
